@@ -3,37 +3,24 @@ An AI-powered chatbot built using FastAPI, LangChain, and Groq API.
 This chatbot provides intelligent, real-time responses and is deployed on Render.
 
 🚀 Live Demo
-
 👉 https://ai-chat-bot-1-r2yk.onrender.com/docs
 
 
 ✨ Features
-
 💬 Real-time AI conversation
-
 🧠 Powered by LangChain + Groq LLM
-
 ⚡ FastAPI backend
-
 🔐 Secure API key handling with .env
-
 🌐 Deployed on Render
-
 📜 Interactive API documentation (Swagger UI)
 
 
 🛠️ Tech Stack
-
 Python
-
 FastAPI
-
 LangChain
-
 Groq API
-
 Uvicorn
-
 Render (Deployment)
 
 
