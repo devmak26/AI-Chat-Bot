@@ -80,13 +80,16 @@ This chatbot provides intelligent, real-time responses and is deployed on Render
 
        Swagger UI available at:
        👉 https://ai-chat-bot-1-r2yk.onrender.com/docs
+       
 
-     📦 Deployment
+📦 Deployment
 
-Deployed on Render using:
+     🔹 Deployed on Render using:
 
-uvicorn app:app --host 0.0.0.0 --port $PORT
+           uvicorn app:app --host 0.0.0.0 --port $PORT
+
+           
 👨‍💻 Author
 
-Dev Makwana
-GitHub: https://github.com/devmak26
+    Dev Makwana
+    GitHub: https://github.com/devmak26
